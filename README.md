@@ -32,4 +32,4 @@ How to use this guide?
 
 To get the most out of this guide, read it carefully and follow each step. If you have any questions, consult the FAQ section or contact the guide author.
 
-** Enjoy your reading and stay safe!**
+**Enjoy your reading and stay safe!**
