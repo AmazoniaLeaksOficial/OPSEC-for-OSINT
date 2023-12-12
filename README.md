@@ -30,6 +30,6 @@ This guide covers all the steps necessary to apply secure security settings for 
 This guide is for investigative journalists and OSINT investigators interested in conducting online investigations against powerful adversaries. The guide is especially useful for journalists who are new to OPSEC or who lack computer experience.
 How to use this guide?
 
-To get the most out of this guide, read it carefully and follow each step. If you have any questions, consult the FAQ section or contact the guide author.
+To get the most out of this guide, read it carefully and follow each step. If you have any questions, consult the Issues section or contact the guide author.
 
 **Enjoy your reading and stay safe!**
