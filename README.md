@@ -1,37 +1,35 @@
-# OPSEC para Investigadores OSINT
+# OPSEC for OSINT Investigators
 
-## Introdução
+## Introduction
 
-Olá e bem-vindo ao Guia OPSEC para Investigadores OSINT. Este guia tem como objetivo fornecer informações completas sobre as melhores práticas de segurança para jornalistas que realizam investigações online contra adversários poderosos.
+Welcome to the OPSEC Guide for OSINT Investigators. This guide aims to provide comprehensive information on best security practices for journalists conducting online investigations against powerful adversaries.
 
-## O que é OPSEC?
+## What is OPSEC?
 
-OPSEC é a sigla para "Operações de Segurança". Em um contexto de investigações online, OPSEC refere-se às medidas que os pesquisadores podem tomar para proteger sua identidade e segurança.
+OPSEC stands for "Operational Security." In the context of online investigations, OPSEC refers to the measures that researchers can take to protect their identity and security.
 
-**Ataque a pesquisadores pode incluir:**
+## Attacks on researchers can include:
 
-* Ataques cibernéticos, como roubo de dados ou sabotagem de sistemas;
-* Alteração de dados para te desacreditar;
-* Ameaças físicas ou legais;
-* Tentativas de intimidação ou silenciamento;
-* Etc..
+* Cyber attacks, such as data theft or system sabotage;
+* Data tampering to discredit you;
+* Physical or legal threats;
+* Attempts to intimidate or silence you;
+* Etc.
 
-## O que este guia cobre?
+## What does this guide cover?
 
-Este guia cobre todas as etapas necessárias para aplicar as configurações de segurança segura para investigações online segura. Essas etapas incluem:
+This guide covers all the steps necessary to apply secure security settings for secure online investigations. These steps include:
 
-* Instalação de um sistema operacional seguro, como Tails
-* Uso de ferramentas de anonimato, como Sock Puppets
-* Criptografia de dados, como PGP
-* E muito, muito mais...
+* Installing a secure operating system, such as Tails;
+* Using anonymity tools, such as Sock Puppets;
+* Encrypting data, such as PGP;
+* And much, much more...
 
-## Para quem é este guia para?
+## Who is this guide for?
 
-Este guia é para jornalistas investigativos e investigadores OSINT que estejam interessado em realizar investigações online contra adversários poderosos. O guia é especialmente útil para jornalistas que são novos em OPSEC ou que não têm experiência em informática.
+This guide is for investigative journalists and OSINT investigators interested in conducting online investigations against powerful adversaries. The guide is especially useful for journalists who are new to OPSEC or who lack computer experience.
+How to use this guide?
 
-## Como usar este guia?
+To get the most out of this guide, read it carefully and follow each step. If you have any questions, consult the FAQ section or contact the guide author.
 
-Para obter o máximo deste guia, leia-o atentamente e siga cada etapa. Se você tiver alguma dúvida, consulte a seção de perguntas frequentes ou entre em contato com o autor do guia.
-
-**Boa leitura e mantenha-se seguro!**
-
+** Enjoy your reading and stay safe!**
