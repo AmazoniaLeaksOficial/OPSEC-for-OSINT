@@ -36,9 +36,9 @@ Issues: If you encounter problems or have questions, please check the <a href="h
 
 **Contributions**: This repository is a collaborative effort, and contributions are welcome. If you have additional knowledge or suggestions, feel free to submit a <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/pulls" target="_blank">pull request</a>.
 
-Note:
+## Note:
 
-This guide is under construction and will take time to be completed. Throughout its development, I will cover topics such as Operating Systems, Host Operating System, Tails, Whonix, Qubes/Whonix, Mobile Guide, KeePassXC, PGP, Alternative communication methods, Email, Jabber/XMPP, and more.
+This guide is **under construction and will take time to be completed**. Throughout its development, I will cover topics such as Operating Systems, Host Operating System, Tails, Whonix, Qubes/Whonix, Mobile Guide, KeePassXC, PGP, Alternative communication methods, Email, Jabber/XMPP, and more.
 
 To get the most out of this guide, read it carefully and follow each step. If you have any questions, consult the  or contact the guide author.
 
