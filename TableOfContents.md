@@ -14,8 +14,8 @@ Demonstrate your gratitude to these contributors by making an occasional donatio
 
 Table of Contents
 
-## Operating Systems (Coming soon)
-* Host Operating System (Coming soon)
+## Operating Systems (under construction)
+* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">Host Operating System</a>
 * Tails (Coming soon)
 * Whonix (Coming soon)
 * Qubes/Whonix (Coming soon)
