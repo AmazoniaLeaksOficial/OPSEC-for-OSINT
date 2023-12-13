@@ -4,7 +4,7 @@ OPSEC for OSINT Investigators is possible thanks to the dedicated efforts of man
 
 Demonstrate your gratitude to these contributors by making an occasional donation to the Tor, Tails, Kicksecure, Whonix, and/or GnuPG projects.
 
-**Note**: If you find any broken links or outdated information, please open a new issue to report the problem.
+**Note**: If you find any broken links or outdated information, please open a <a href="https://github.com/AmazoniaLeaksOficial/OPSEC/issues" target="_blank">New Issue</a> to report the problem.
 
 ## Version 1
 
