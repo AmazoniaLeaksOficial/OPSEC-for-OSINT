@@ -1,4 +1,4 @@
-# About
+# Important
 
 OPSEC for OSINT Investigators is possible thanks to the dedicated efforts of many talented people who have invested countless hours of their free time to develop the tools you will use as you follow this guide.
 
