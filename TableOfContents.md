@@ -12,3 +12,31 @@ Demonstrate your gratitude to these contributors by making an occasional donatio
 
 # Table Of Contents
 
+Table of Contents
+
+## Operating Systems (Coming soon)
+* Host Operating System (Coming soon)
+* Tails (Coming soon)
+* Whonix (Coming soon)
+* Qubes/Whonix (Coming soon)
+* Mobile Guide (Coming soon)
+        
+## KeePassXC (Coming soon)
+* Creating a database (Coming soon)
+* Opening a database (Coming soon)
+* Adding entries (Coming soon)
+* Accessing secrets (Coming soon)
+
+## PGP (Coming soon)
+* Creating a key pair (Coming soon)
+* Importing a public key (Coming soon)
+* Encrypting a message (Coming soon)
+* Verifying a message (Coming soon)
+* Decrypting a message (Coming soon)
+* Signing a message (Coming soon)
+
+## Alternative communication methods (Coming soon)
+* Email (Coming soon)
+* Jabber / XMPP (Coming soon)
+
+## and more, most more.... (Coming soon)
