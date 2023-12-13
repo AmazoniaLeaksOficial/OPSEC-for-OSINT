@@ -9,3 +9,6 @@ Demonstrate your gratitude to these contributors by making an occasional donatio
 ## Version 1
 
 ## Author: /Minotaur
+
+# Table Of Contents
+
