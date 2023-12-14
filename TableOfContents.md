@@ -6,7 +6,7 @@ Demonstrate your gratitude to these contributors by making an occasional donatio
 
 **Note**: If you find any broken links or outdated information, please open a <a href="https://github.com/AmazoniaLeaksOficial/OPSEC/issues" target="_blank">New Issue</a> to report the problem.
 
-## Version 1
+## Version 01
 
 ## Author: /Minotaur
 
