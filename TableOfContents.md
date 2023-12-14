@@ -41,7 +41,7 @@ Table of Contents
 
 ## ESSENTIAL SECURITY
 
-1. Threat Model - [link]
+1. <a href="https://www.linkedin.com/pulse/digital-security-investigative-journalists-international-leaks/?trackingId=g4L4mggBQJqp9KsQRdQ5Og%3D%3D" target="_blank">Threat Model - [link]  </a>
 2. Operating Systems
 3. Smartphones
 4. Internet Browsing
