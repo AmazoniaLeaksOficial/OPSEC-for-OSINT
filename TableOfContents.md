@@ -12,12 +12,14 @@ OPSEC for OSINT Investigators is possible thanks to the dedicated efforts of man
 
 Table of Contents
 
+:white_check_mark: <a href="https://www.linkedin.com/pulse/digital-security-investigative-journalists-international-leaks/?trackingId=g4L4mggBQJqp9KsQRdQ5Og%3D%3D" target="_blank">**Introduction - Threat Model** - [link]  </a>
+
 ## Operating Systems (under construction)
-* <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">Host Operating System</a>
-* Tails (Coming soon)
-* Whonix (Coming soon)
-* Qubes/Whonix (Coming soon)
-* Mobile Guide (Coming soon)
+:white_check_mark: <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/blob/main/01%20-%20INTRODUCTION.md#-building-a-robust-osint-framework-for-investigations-against-powerful-adversaries" target="_blank">Host Operating System</a><br>
+:white_large_square: Tails (Coming soon)<br>
+:white_large_square: Whonix (Coming soon)<br>
+:white_large_square: Qubes/Whonix (Coming soon)<br>
+:white_large_square: Mobile Guide (Coming soon)<br>
         
 ## KeePassXC (Coming soon)
 * Creating a database (Coming soon)
@@ -39,14 +41,13 @@ Table of Contents
 
 ## ESSENTIAL SECURITY
 
-1. <a href="https://www.linkedin.com/pulse/digital-security-investigative-journalists-international-leaks/?trackingId=g4L4mggBQJqp9KsQRdQ5Og%3D%3D" target="_blank">Threat Model - [link]  </a>
-2. Operating Systems
-3. Smartphones
-4. Internet Browsing
-5. Social Networks
-6. Email Communication
-7. Password Manager
-8. Two-Factor Authentication
+1. Operating Systems
+2. Smartphones
+3. Internet Browsing
+4. Social Networks
+5. Email Communication
+6. Password Manager
+7. Two-Factor Authentication
 
 ##  INTERMEDIATE SECURITY
 
