@@ -22,61 +22,61 @@ Table of Contents
 :white_large_square: Mobile Guide (Coming soon)<br>
         
 ## KeePassXC (Coming soon)
-* Creating a database (Coming soon)
-* Opening a database (Coming soon)
-* Adding entries (Coming soon)
-* Accessing secrets (Coming soon)
+:white_large_square: Creating a database (Coming soon)<br>
+:white_large_square: Opening a database (Coming soon)<br>
+:white_large_square: Adding entries (Coming soon)<br>
+:white_large_square: Accessing secrets (Coming soon)<br>
 
 ## PGP (Coming soon)
-* Creating a key pair (Coming soon)
-* Importing a public key (Coming soon)
-* Encrypting a message (Coming soon)
-* Verifying a message (Coming soon)
-* Decrypting a message (Coming soon)
-* Signing a message (Coming soon)
+:white_large_square: Creating a key pair (Coming soon)<br>
+:white_large_square: Importing a public key (Coming soon)<br>
+:white_large_square: Encrypting a message (Coming soon)<br>
+:white_large_square: Verifying a message (Coming soon)<br>
+:white_large_square: Decrypting a message (Coming soon)<br>
+:white_large_square: Signing a message (Coming soon)<br>
 
 ## Alternative communication methods (Coming soon)
-* Email (Coming soon)
-* Jabber / XMPP (Coming soon)
+:white_large_square: Email (Coming soon)<br>
+:white_large_square: Jabber / XMPP (Coming soon)<br>
 
 ## ESSENTIAL SECURITY
 
-1. Operating Systems
-2. Smartphones
-3. Internet Browsing
-4. Social Networks
-5. Email Communication
-6. Password Manager
-7. Two-Factor Authentication
+:white_large_square: 1. Operating Systems<br>
+:white_large_square: 2. Smartphones<br>
+:white_large_square: 3. Internet Browsing<br>
+:white_large_square: 4. Social Networks<br>
+:white_large_square: 5. Email Communication<br>
+:white_large_square: 6. Password Manager<br>
+:white_large_square: 7. Two-Factor Authentication<br>
 
 ##  INTERMEDIATE SECURITY
 
-1. Digital Risk Assessment
-2. VPNs
-3. Disaster Prevention
-4. Instant Messaging
-5. Sensitive Materials
-6. Encryption
-7. Doxxing
-8. Cloud Storage
-9. File Sharing & Sync
-10. Photo Storage
+:white_large_square: 1. Digital Risk Assessment<br>
+:white_large_square: 2. VPNs<br>
+:white_large_square: 3. Disaster Prevention<br>
+:white_large_square: 4. Instant Messaging<br>
+:white_large_square: 5. Sensitive Materials<br>
+:white_large_square: 6. Encryption<br>
+:white_large_square: 7. Doxxing<br>
+:white_large_square: 8. Cloud Storage<br>
+:white_large_square: 9. File Sharing & Sync<br>
+:white_large_square: 10. Photo Storage<br>
 
 ## ADVANCED SECURITY
 
-1. Disk Encryption
-2. Virtual Machines
-3. Anonymous Networks
-4. Anonymous Browsers
-5. Metadata
-6. Disk Cleanup
-7. Persistent Malware
-8. Cryptocurrencies
-9. Dark Web
-10. Globaleaks
-11. SecureDrop
-12. OnionShare
-13. Haven Project
+:white_large_square: 1. Disk Encryption<br>
+:white_large_square: 2. Virtual Machines<br>
+:white_large_square: 3. Anonymous Networks<br>
+:white_large_square: 4. Anonymous Browsers<br>
+:white_large_square: 5. Metadata<br>
+:white_large_square: 6. Disk Cleanup<br>
+:white_large_square: 7. Persistent Malware<br>
+:white_large_square: 8. Cryptocurrencies<br>
+:white_large_square: 9. Dark Web<br>
+:white_large_square: 10. Globaleaks<br>
+:white_large_square: 11. SecureDrop<br>
+:white_large_square: 12. OnionShare<br>
+:white_large_square: 13. Haven Project<br>
 
 
 
