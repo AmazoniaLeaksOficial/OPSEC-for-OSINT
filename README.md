@@ -21,7 +21,7 @@ OPSEC stands for "Operational Security." In the context of online investigations
 ## What does this guide cover?
 
 This guide covers all the steps necessary to apply secure security settings for secure online investigations. These steps include:
-
+ 
 * Installing a secure operating system, such as Tails;
 * Using anonymity tools, such as Sock Puppets;
 * Encrypting data, such as PGP;
