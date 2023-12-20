@@ -31,7 +31,7 @@ This guide covers all the steps necessary to apply secure security settings for 
 
 This guide is for investigative journalists and OSINT investigators interested in conducting online investigations against powerful adversaries. The guide is especially useful for journalists who are new to OPSEC or who lack computer experience.
 How to use this guide?
-
+ 
 ## Contributions and Support:
 
 Issues: If you encounter problems or have questions, please check the <a href="https://github.com/AmazoniaLeaksOficial/OPSEC/issues" target="_blank">Issues Section</a> of the repository. Your issue might have already been addressed. If not, feel free to open a new issue with details about your problems.
