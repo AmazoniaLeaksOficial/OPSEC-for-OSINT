@@ -3,7 +3,7 @@
 ## Navigate to <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/blob/main/TableOfContents.md#important" target="_blank">TableOfContents.md</a> 
 
 ## Introduction
-
+ 
 Welcome to the OPSEC Guide for OSINT Investigators. This guide aims to provide comprehensive information on best security practices for journalists conducting online investigations against powerful adversaries.
 
 ## What is OPSEC?
