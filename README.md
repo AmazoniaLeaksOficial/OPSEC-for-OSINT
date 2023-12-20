@@ -27,7 +27,7 @@ This guide covers all the steps necessary to apply secure security settings for 
 * Encrypting data, such as PGP;
 * And much, much more...
 
-## Who is this guide for?
+## Who is this guide for? 
 
 This guide is for investigative journalists and OSINT investigators interested in conducting online investigations against powerful adversaries. The guide is especially useful for journalists who are new to OPSEC or who lack computer experience.
 How to use this guide?
