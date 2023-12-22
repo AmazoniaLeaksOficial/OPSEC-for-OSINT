@@ -33,7 +33,7 @@ This guide is for investigative journalists and OSINT investigators interested i
 How to use this guide?
  
 ## Contributions and Support:
-
+ 
 Issues: If you encounter problems or have questions, please check the <a href="https://github.com/AmazoniaLeaksOficial/OPSEC/issues" target="_blank">Issues Section</a> of the repository. Your issue might have already been addressed. If not, feel free to open a new issue with details about your problems.
 
 **Contributions**: This repository is a collaborative effort, and contributions are welcome. If you have additional knowledge or suggestions, feel free to submit a <a href="https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide/pulls" target="_blank">pull request</a>.
