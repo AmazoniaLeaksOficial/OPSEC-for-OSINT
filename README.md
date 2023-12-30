@@ -1,5 +1,8 @@
 # OPSEC for OSINT Investigators
 
+![Banner-Repositorio-OPSEC-for-OSINT](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/29cb17fc-95c9-461f-a41b-11d7927c5db8)
+
+
 ## Navigate to <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/blob/main/TableOfContents.md#important" target="_blank">TableOfContents.md</a> 
 
 ## Introduction
@@ -17,9 +20,6 @@ OPSEC stands for "Operational Security." In the context of online investigations
 * Physical or legal threats;
 * Attempts to intimidate or silence you;
 * Etc.
-
-
-![OPSEC-for-OSINT-logo-v2](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/8b310519-3c4e-4199-8cb3-e049d7f67cfa)
   
 
 ## What does this guide cover?
