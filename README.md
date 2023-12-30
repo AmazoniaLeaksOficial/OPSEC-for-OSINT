@@ -1,6 +1,6 @@
 # OPSEC for OSINT Investigators
 
-![Banner-Repositorio-OPSEC-for-OSINT](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/29cb17fc-95c9-461f-a41b-11d7927c5db8)
+![Banner-Repositorio-OPSEC-for-OSINT 2](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/347d99c7-3ffc-4f59-b3f5-5668300ed564)
 
 
 ## Navigate to <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/blob/main/TableOfContents.md#important" target="_blank">TableOfContents.md</a> 
