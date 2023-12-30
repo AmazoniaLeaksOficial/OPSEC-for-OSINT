@@ -17,7 +17,11 @@ OPSEC stands for "Operational Security." In the context of online investigations
 * Physical or legal threats;
 * Attempts to intimidate or silence you;
 * Etc.
+
+
+![OPSEC-for-OSINT-logo-v2](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/8b310519-3c4e-4199-8cb3-e049d7f67cfa)
   
+
 ## What does this guide cover?
  
 This guide covers all the steps necessary to apply secure security settings for secure online investigations. These steps include:
