@@ -11,7 +11,7 @@ Welcome to the OPSEC Guide for OSINT Investigators. This guide aims to provide c
 
 ## What is OPSEC?
 
-OPSEC stands for "Operational Security." In the context of online investigations, OPSEC refers to the measures that researchers can take to protect their identity and security.
+OPSEC stands for "Operational Security" In the context of online investigations, OPSEC refers to the measures that researchers can take to protect their identity and security.
 
 ## Attacks on researchers can include:
  
