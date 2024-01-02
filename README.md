@@ -7,7 +7,7 @@
 
 ## Introduction
  
-Welcome to the OPSEC Guide for OSINT Investigators. This guide aims to provide comprehensive information on best security practices for journalists conducting online investigations against powerful adversaries.
+OPSEC for OSINT Investigations: A Secure Framework for Investigative Journalists. This option clearly identifies the target audience (OSINT investigators) and the guide's purpose (providing a secure framework).
 
 ## What is OPSEC?
 
