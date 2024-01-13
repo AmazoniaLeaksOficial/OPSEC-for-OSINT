@@ -9,7 +9,7 @@
  
 OPSEC for OSINT Investigations: A Secure Framework for Investigative Journalists. This option clearly identifies the target audience (OSINT investigators) and the guide's purpose (providing a secure framework).
 
-## What is OPSEC??
+## What is OPSEC?? 
 
 OPSEC stands for **Operational Security** In the context of online investigations, OPSEC refers to the measures that researchers can take to protect their identity and security.
 
