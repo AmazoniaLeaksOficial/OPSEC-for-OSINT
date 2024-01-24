@@ -6,7 +6,7 @@ OPSEC for OSINT Investigators is possible thanks to the dedicated efforts of man
 
 ## Version 01
 
-## Author: Minotaur
+## Author: Minotaur 
 
 # Table Of Contents
 
