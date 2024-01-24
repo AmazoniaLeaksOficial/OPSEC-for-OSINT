@@ -1,11 +1,11 @@
-# OPSEC for OSINT Investigators
+e# OPSEC for OSINT Investigators
 
 ![Banner-Repositorio-OPSEC-for-OSINT 2](https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/assets/152492042/347d99c7-3ffc-4f59-b3f5-5668300ed564)
 
 
 ## Navigate to <a href="https://github.com/AmazoniaLeaksOficial/OPSEC-for-OSINT/blob/main/TableOfContents.md#important" target="_blank">TableOfContents.md</a> 
 
-## Introduction
+## Introduction 
  
 OPSEC for OSINT Investigations: A Secure Framework for Investigative Journalists. This option clearly identifies the target audience (OSINT investigators) and the guide's purpose (providing a secure framework).
 
