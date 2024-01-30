@@ -20,7 +20,7 @@ OPSEC stands for **Operational Security** In the context of online investigation
 * Physical or legal threats;
 * Attempts to intimidate or silence you;
 * Etc.
-  
+     
 
 ## What does this guide cover?
  
