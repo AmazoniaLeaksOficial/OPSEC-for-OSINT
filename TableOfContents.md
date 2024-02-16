@@ -33,7 +33,9 @@ Table of Contents
 :white_large_square: Encrypting a message (Coming soon)<br>
 :white_large_square: Verifying a message (Coming soon)<br>
 :white_large_square: Decrypting a message (Coming soon)<br>
-:white_large_square: Signing a message (Coming soon)<br>
+:white_large_square: Signing a message/archive (Coming soon)<br>
+:white_check_mark: <a href="https://drive.google.com/file/d/1JsFK21qb-ZGrr6EjdzolW_-Hw9JKDylX/view?usp=sharing" target="_blank">**GUIA sobre PGP (Pretty Good Privacy) (pt_BR)** - [link]  </a><br>
+:white_large_square: PGP Guide (Pretty Good Privacy) (en_US)** (Coming soon)<br>
 
 ## Alternative communication methods (Coming soon)
 :white_large_square: Email (Coming soon)<br>
